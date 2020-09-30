@@ -1,7 +1,7 @@
 The Reverse Hash Application
 ============================
 
-This application uses a very simple brute force attack to 
+This web app uses a very simple brute force attack to 
 "reverse" an MD5 hash.  But it is really not reversing the hash
 at all as that would be impossible.  Instead it knows that 
 the original pre hash text was a numerical character string with 
